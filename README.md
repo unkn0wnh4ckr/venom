@@ -21,3 +21,22 @@ to run the venom framework just do these commands
 * `cd venom`
 
 * `ruby venom.rb`
+
+# UPDATE
+
+to update the venom framework just run the venomupdate.rb file or execute the update command in the framework
+
+# VENOM SECURE
+
+the venom secure file (venomsecure.rb) is the secure version of the venom framework it
+runs the venom framework with proxychains and other things to make you near anonymouse
+
+![](tools/venom3.png)
+
+# RUN
+
+to run Venom Secure just do these commands
+
+* `cd venom`
+
+* `ruby venomsecure.rb`
