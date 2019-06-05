@@ -6,3 +6,18 @@ the venom framework is a framework filled with tools for wireless hacking, norma
 
 
 ![](tools/venom2.png)
+
+
+#INSTALL
+
+there is no install for this if your using the os kali linux there is nothing too install
+
+#RUN
+
+ROOT IS NOT REQUIRED TO RUN BUT IS RECOMMENDED
+
+to run the venom framework just do these commands
+
+* `cd venom`
+
+* `ruby venom.rb`
