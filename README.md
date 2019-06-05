@@ -8,11 +8,11 @@ the venom framework is a framework filled with tools for wireless hacking, norma
 ![](tools/venom2.png)
 
 
-#INSTALL
+# INSTALL
 
 there is no install for this if your using the os kali linux there is nothing too install
 
-#RUN
+# RUN
 
 ROOT IS NOT REQUIRED TO RUN BUT IS RECOMMENDED
 
